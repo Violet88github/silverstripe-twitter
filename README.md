@@ -1,3 +1,5 @@
+Update to Silverstripe 5
+
 # Simple Twitter feed for Silverstripe
 
 This module puts a simple twitter feed into your page. Nothing fancy!
